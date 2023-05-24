@@ -7,4 +7,4 @@ Estudo de propriedades básicas do CSS
 - height
 - width
 - font
-Intuito do projeto aplicar essas propriedades e variaçoes nas tag da página HTML
+Intuito do projeto aplicar essas propriedades e variaçoes nas tag da página HTML. [Veja o site aqui](https://mecaflavio.github.io/pagina_divulgacao_de_livro/)
